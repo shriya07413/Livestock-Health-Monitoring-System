@@ -1,0 +1,10 @@
+animal_id,animal_type,breed,age,gender,weight,temperature,symptoms,food_intake,water_intake,activity_level,additional_notes,health_status,created_at
+COW-001,Cow,Holstein Friesian,4 years,Female,480.0,38.6,None,Normal,Normal,Normal,Routine monthly checkup,Healthy,2026-09-20 09:00:00
+COW-001,Cow,Holstein Friesian,4 years,Female,475.0,39.1,Mild lethargy,Reduced,Normal,Reduced,Decreased milk yield by 15%,Needs Monitoring,2026-09-24 14:30:00
+COW-001,Cow,Holstein Friesian,4 years,Female,468.0,40.2,Not eating, weakness and reduced milk production,Reduced,Reduced,Very Low,High temperature and loss of appetite,Warning,2026-09-28 10:15:00
+BUF-001,Buffalo,Murrah,5 years,Female,550.0,38.2,None,Normal,Normal,Normal,In peak lactation cycle,Healthy,2026-09-18 08:00:00
+BUF-001,Buffalo,Murrah,5 years,Female,545.0,38.8,Slight nasal discharge,Normal,Normal,Normal,Weather changed suddenly,Needs Monitoring,2026-09-26 16:45:00
+GOAT-001,Goat,Beetal,2 years,Male,48.0,39.0,None,Normal,Normal,Normal,Active breeder buck,Healthy,2026-09-15 11:20:00
+GOAT-001,Goat,Beetal,2 years,Male,47.2,39.8,Coughing and dull coat,Reduced,Normal,Reduced,Observed shivering in evening,Needs Monitoring,2026-09-27 12:10:00
+SHP-001,Sheep,Dorper,3 years,Female,58.0,38.9,None,Normal,Normal,Normal,Healthy grazing flock,Healthy,2026-09-22 10:00:00
+SHP-001,Sheep,Dorper,3 years,Female,55.0,40.5,Severe limping on left hoof and fever,Very Low,Reduced,Very Low,Suspected footrot infection,Warning,2026-09-28 09:30:00

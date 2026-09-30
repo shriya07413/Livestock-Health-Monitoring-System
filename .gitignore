@@ -1,0 +1,22 @@
+# Environment variables & Secrets
+.env
+*.env
+
+# Python cache & virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+ENV/
+
+# Output directories & SQLite database
+database/*.db
+reports/*.txt
+charts/*.png
+
+# OS-specific files
+.DS_Store
+Thumbs.db
